@@ -1,0 +1,4 @@
+ [*] Waiting for logs. To exit press CTRL+C
+ [x] 'warning':'its first warning'
+ [x] 'error':'its first warning'
+ [x] 'error':'its first error'
